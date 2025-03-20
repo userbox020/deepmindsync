@@ -366,8 +366,9 @@ While binaural beats are generally safe, consider these precautions:
 
 - **Beat Frequency Formula:**
 
-fbeat=∣fright−fleft∣f\_{\text{beat}} = \| f\_{\text{right}} -
-f\_{\text{left}} \| fbeat​=∣fright​−fleft​∣
+```math
+f_{\text{beat}} = \lvert f_{\text{right}} - f_{\text{left}} \rvert
+```
 
 - **Example:**  
   For the Focus preset, using a base frequency of 200 Hz and a beat of
