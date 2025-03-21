@@ -71,7 +71,7 @@ intended effect:
 
 **Mechanism and Mathematical Basis**
 
-When two tones of frequencies $f_{L}$ and $f_{R}$ are presented separately to each ear, the brain detects a beat at:
+When two tones of frequencies \( f_{L} \) and \( f_{R} \) are presented separately to each ear, the brain detects a beat at:
 
 $$
 f_{\text{beat}} = \left| f_{\text{right}} - f_{\text{left}} \right|
