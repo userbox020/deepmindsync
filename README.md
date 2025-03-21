@@ -1,4 +1,4 @@
-## DEEPMINDSYN
+# DEEPMINDSYNC
 
 Binaural beats are an auditory illusion created by presenting two
 slightly different pure-tone frequencies to each ear. The brain
@@ -39,25 +39,25 @@ intended effect:
 2. Brainwave Frequencies and Entrainment
 
 3. Preset-Specific Analysis 
-   3.1. Beta Frequencies: Focus, Energy, and Memory 
-   3.2. Alpha Frequencies: Relaxation and Creativity
-   3.3. Theta Frequencies: Meditation, Intuition, and Anxiety Relief
-   3.4. Delta Frequencies: Deep Sleep, Lucid Dreaming, and Healing
+    - Beta Frequencies: Focus, Energy, and Memory  
+    - Alpha Frequencies: Relaxation and Creativity  
+    - Theta Frequencies: Meditation, Intuition, and Anxiety Relief  
+    - Delta Frequencies: Deep Sleep, Lucid Dreaming, and Healing
 
-4. Practical Applications and Best Usage Practices
+5. Practical Applications and Best Usage Practices
 
-5. Comparisons with Other Brainwave Entrainment Methods
+6. Comparisons with Other Brainwave Entrainment Methods
 
-6. Potential Risks and Contraindications
+7. Potential Risks and Contraindications
 
-7. Mathematical Formulas and Acoustic Details
+8. Mathematical Formulas and Acoustic Details
 
-8. Conclusion
+9. Conclusion
 
-9. Sources
+10. Sources
 
 
-**Mechanism and Mathematical Basis**
+## 1. Mechanism and Mathematical Basis
 
 When two tones of frequencies _f(L)_ and _f(R)_ are presented separately to each ear, the brain detects a beat at:
 
@@ -81,7 +81,7 @@ what the brain perceives as the beat.
 *Note:* Binaural beats require stereo headphones since each ear must
 receive a different frequency.
 
-**Brainwave Frequencies and Entrainment**
+## 2. Brainwave Frequencies and Entrainment
 
 Human brain activity is generally divided into several frequency bands
 that correlate with different states:
@@ -101,7 +101,7 @@ The idea behind binaural beats is that by listening to a specific beat
 frequency, one might entrain the brain to produce more of that same
 frequency, potentially inducing the corresponding state.
 
-**Preset-Specific Analysis**
+## 3. Preset-Specific Analysis
 
 **Beta Frequencies: Focus, Energy, and Memory**
 
@@ -252,7 +252,7 @@ frequency, potentially inducing the corresponding state.
   - **Note:** These claims remain speculative and are based on holistic
     and alternative theories.
 
-**Practical Applications and Best Usage Practices**
+## 5. Practical Applications and Best Usage Practices
 
 - **Stress Reduction & Meditation:**
 
@@ -298,7 +298,7 @@ frequency, potentially inducing the corresponding state.
   - Always start with a low volume and use stereo headphones for best
     results.
 
-**Comparisons with Other Brainwave Entrainment Methods**
+## 6. Comparisons with Other Brainwave Entrainment Methods
 
 - **Monaural Beats:**
 
@@ -351,7 +351,7 @@ While binaural beats are generally safe, consider these precautions:
   - Extended sessions might lead to grogginess. Use in moderation and
     monitor your response.
 
-**Mathematical Formulas and Acoustic Details**
+## 7. Mathematical Formulas and Acoustic Details
 
 - **Beat Frequency Formula:**
 
@@ -388,7 +388,7 @@ envelope that the brain perceives as the beat.
   where a spike appears at the beat frequency if entrainment is
   effective.
 
-**Conclusion**
+## 8.Conclusion
 
 Binaural beats offer a fascinating intersection of mathematics,
 neuroscience, and subjective experience. Each preset frequency aligns
@@ -401,7 +401,7 @@ wellness strategies. Regular, mindful use with proper precautions can
 help you tap into these subtle auditory cues to potentially improve
 mental and physical well-being.
 
-**Sources**
+## 9. Sources
 
 1.  **Oster, G. (1973).** *Auditory beats in the brain.* Scientific
     American, 229(4), 94--102.
