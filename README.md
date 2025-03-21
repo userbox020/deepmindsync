@@ -34,40 +34,28 @@ intended effect:
 
 **Contents**
 
-- [Mechanism and Mathematical Basis](#mechanism-and-mathematical-basis)
+1. Mechanism and Mathematical Basis
 
-- [Brainwave Frequencies and
-  Entrainment](#brainwave-frequencies-and-entrainment)
+2. Brainwave Frequencies and Entrainment
 
-- [Preset-Specific Analysis](#preset-specific-analysis)
+3. Preset-Specific Analysis 
+   3.1. Beta Frequencies: Focus, Energy, and Memory 
+   3.2. Alpha Frequencies: Relaxation and Creativity
+   3.3. Theta Frequencies: Meditation, Intuition, and Anxiety Relief
+   3.4. Delta Frequencies: Deep Sleep, Lucid Dreaming, and Healing
 
-  - [Beta Frequencies: Focus, Energy, and
-    Memory](#beta-frequencies-focus-energy-and-memor)
+4. Practical Applications and Best Usage Practices
 
-  - [Alpha Frequencies: Relaxation and
-    Creativity](#alpha-frequencies-relaxation-and-creati)
+5. Comparisons with Other Brainwave Entrainment Methods
 
-  - [Theta Frequencies: Meditation, Intuition, and Anxiety
-    Relief](#theta-frequencies-meditation-intuition-)
+6. Potential Risks and Contraindications
 
-  - [Delta Frequencies: Deep Sleep, Lucid Dreaming, and
-    Healing](#delta-frequencies-deep-sleep-lucid-drea)
+7. Mathematical Formulas and Acoustic Details
 
-- [Practical Applications and Best Usage
-  Practices](#practical-applications-and-best-usage-p)
+8. Conclusion
 
-- [Comparisons with Other Brainwave Entrainment
-  Methods](#comparisons-with-other-brainwave-entrai)
+9. Sources
 
-- [Potential Risks and
-  Contraindications](#potential-risks-and-contraindications)
-
-- [Mathematical Formulas and Acoustic
-  Details](#mathematical-formulas-and-acoustic-deta)
-
-- [Conclusion](#conclusion)
-
-- [Sources](#sources)
 
 **Mechanism and Mathematical Basis**
 
