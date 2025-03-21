@@ -71,7 +71,7 @@ intended effect:
 
 **Mechanism and Mathematical Basis**
 
-When two tones of frequencies f(L) and f(R) are presented separately to each ear, the brain detects a beat at:
+When two tones of frequencies _f(L)_ and _f(R)_ are presented separately to each ear, the brain detects a beat at:
 
 
 ```math
@@ -82,9 +82,9 @@ For example, using a base frequency of 200 Hz and a beat frequency of 14 Hz fo
 
 A useful trigonometric identity shows that:
 
-$$
+```math
 \sin(2\pi f_1 t) + \sin(2\pi f_2 t) = 2 \cos\left(2\pi \frac{f_1 - f_2}{2} t\right) \sin\left(2\pi \frac{f_1 + f_2}{2} t\right)
-$$
+```
 
 
 In binaural beats, the low-frequency envelope (from the cosine term) is
@@ -367,9 +367,9 @@ While binaural beats are generally safe, consider these precautions:
 
 - **Beat Frequency Formula:**
 
-$$
+```math
 f_{\text{beat}} = \left| f_{\text{right}} - f_{\text{left}} \right|
-$$
+```
 
 - **Example:**  
   For the Focus preset, using a base frequency of 200 Hz and a beat of
@@ -381,10 +381,10 @@ $$
 
 - **Trigonometric Identity for Signal Summation:**
 
-$$
+```math
 \sin(2\pi f_1 t) + \sin(2\pi f_2 t) = 2 \cos\left(2\pi \frac{f_1 - f_2}{2} t\right)
 \sin\left(2\pi \frac{f_1 + f_2}{2} t\right)
-$$
+```
 
 
 This illustrates how two close frequencies create a low-frequency
