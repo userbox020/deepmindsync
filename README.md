@@ -71,13 +71,12 @@ intended effect:
 
 **Mechanism and Mathematical Basis**
 
-```math
-\text{When two tones of frequencies } f_{L} \text{ and } f_{R} \text{ are presented separately to each ear, the brain detects a beat at:}
-```
+When two tones of frequencies f(L) and f(R) are presented separately to each ear, the brain detects a beat at:
 
-$$
+
+```math
 f_{\text{beat}} = \left| f_{\text{right}} - f_{\text{left}} \right|
-$$
+```
 
 For example, using a base frequency of 200 Hz and a beat frequency of 14 Hz for the *Focus* preset, the tones could be 200 Hz in one ear and 214 Hz in the other.
 
